@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="zxx">
+    
+<!-- Mirrored from templates.hibotheme.com/dolt/default/faq by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 May 2025 17:27:16 GMT -->
+<head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Link of CSS files -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/remixicon.css">
+        <link rel="stylesheet" href="assets/css/flaticon_dolt.css">
+        <link rel="stylesheet" href="assets/css/swiper.bundle.min.css">
+        <link rel="stylesheet" href="assets/css/aos.css">
+        <link rel="stylesheet" href="assets/css/header.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/footer.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="assets/css/dark-theme.css">
+
+                <title>Targey Trading & Investment Co.LTD</title>
+
+        <link rel="icon" type="image/png" href="assets/img/favicon.webp">
+    </head>
+    <body>
+
+        <!--  Preloader Start -->
+        <div class="loader-wrapper">
+            <div class="loader"></div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+        </div>
+        <!--  Preloader End -->
+
+        <!-- Theme Switcher Start -->
+        <!-- <div class="switch-theme-mode">
+            <label id="switch" class="switch">
+                <input type="checkbox" onchange="toggleTheme()" id="slider">
+                <span class="slider round"></span>
+            </label>
+        </div> -->
+        <!-- Theme Switcher End -->
+
+        <!-- Start Navbar Area -->
+        <div class="navbar-area style-one" id="navbar">
+            <div class="header-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <ul class="contact-info list-style">
+                                <li><i class="flaticon-mail"></i>targeytrading@gmail.com</li>
+                                <li><i class="flaticon-pin"></i>Juba - South Sudan</li>
+                                <li><i class="flaticon-phone-call"></i>+211 922 999 927</li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-4">
+                            <ul class="contact-info text-lg-end list-style">
+                                <li><i class="flaticon-clock"></i>Mon - Sat: 09.00 to 18.00, Sunday: Closed</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <nav class="navbar navbar-expand-lg">
+                    <a class="navbar-brand" href="index">
+                        <img class="logo-light" src="assets/img/logo.webp" alt="logo">
+                        <img class="logo-dark" src="assets/img/logo-white.webp" alt="logo">
+                    </a>
+                    <div class="other-option d-flex align-items-center justify-content-end d-lg-none">
+                        <button type="button" class="search-btn d-lg-none" data-bs-toggle="modal" data-bs-target="#searchModal">
+                            <i class="flaticon-search"></i>
+                        </button>
+                        <a class="navbar-toggler" data-bs-toggle="offcanvas" href="#navbarOffcanvas" role="button" aria-controls="navbarOffcanvas">
+                            <span class="burger-menu">
+                                <span class="top-bar"></span>
+                                <span class="middle-bar"></span>
+                                <span class="bottom-bar"></span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <a href="index" class="nav-link">
+                                    Home
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="about" class="nav-link">
+                                    About Us
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="service-style-two" class="nav-link">
+                                    Services
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="nav-item">
+                                <a href="faq" class="nav-link active">
+                                    FAQ
+                                </a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a href="privacy-policy" class="nav-link">
+                                    Policy
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="contact" class="nav-link">
+                                    Contact Us
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="others-option d-flex align-items-center">
+                            <div class="option-item">
+                                <button type="button" class="search-btn" data-bs-toggle="modal" data-bs-target="#searchModal">
+                                    <i class="flaticon-search"></i>
+                                </button>
+                            </div>
+                            <div class="option-item">
+                                <div class="contact-item">
+                                    <i class="flaticon-emergency-call"></i>
+                                    <span>Phone Number</span>
+                                                                        <a href="tel:211911999927">+211 911 999 927</a>
+
+                                </div>
+                            </div>
+                            <div class="option-item">
+                                <a class="sidebar-toggler" data-bs-toggle="offcanvas" href="#navbarOffcanvas" role="button" aria-controls="navbarOffcanvas">
+                                    <i class="flaticon-list"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!-- End Navbar Area -->
+
+        <!-- Start Responsive Navbar Area -->
+        <div class="responsive-navbar offcanvas offcanvas-end" data-bs-backdrop="static" tabindex="-1" id="navbarOffcanvas">
+            <div class="offcanvas-header">
+                <a href="index" class="logo d-inline-block">
+                    <img class="logo-light" src="assets/img/logo.webp" alt="logo">
+                    <img class="logo-dark" src="assets/img/logo-white.webp" alt="logo">
+                </a>
+                <button type="button" class="close-btn" data-bs-dismiss="offcanvas" aria-label="Close">
+                    <i class="ri-close-line"></i>
+                </button>
+            </div>
+            <div class="offcanvas-body">
+                <div class="accordion" id="navbarAccordion">
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon" href="index">
+                            Home
+                        </a>
+                    </div>
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon" href="about">
+                            About Us
+                        </a>
+                    </div>
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon" href="service-style-two">
+                            Services
+                        </a>
+                    </div>
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon active" href="faq">
+                            FAQ
+                        </a>
+                    </div>
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon" href="privacy-policy">
+                            Policy
+                        </a>
+                    </div>
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon" href="contact">
+                            Contact Us
+                        </a>
+                    </div>
+                </div>
+                <div class="offcanvas-contact-info">
+                    <h4>Contact Info</h4>
+                    <ul class="contact-info list-style">
+                        <li>
+                            <i class="flaticon-pin"></i>
+                            <p>Juba - South Sudan</p>
+                        </li>
+                        <li>
+                            <i class="flaticon-mail"></i>
+                            <p>targeytrading@gmail.com</p>
+                        </li>
+                        <li>
+                            <i class="flaticon-phone-call"></i>
+                            <a href="tel:211911999927">+211 911 999 927</a>
+                        </li>
+                    </ul>
+                    <ul class="social-profile list-style">
+                        <li><a href="https://www.fb.com/" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+                        <li><a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a></li>
+                        <li><a href="https://www.linkedin.com/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+                        <li><a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-fill"></i></a></li>
+                    </ul>
+                </div>
+                <div class="others-option d-lg-none">
+                    <div class="contact-item">
+                        <i class="flaticon-emergency-call"></i>
+                        <span>Phone Number</span>
+                        <a href="tel:211911999927">+211 911 999 927</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Start Search Modal -->
+        <div class="modal fade searchModal" id="searchModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                     <form>
+                        <input type="text" class="form-control" placeholder="Search here....">
+                        <button type="submit"><i class="ri-search-line"></i></button>
+                    </form>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="ri-close-fill"></i></button>
+                </div>
+            </div>
+        </div>
+        <!-- End Search Modal -->
+
+        <!-- Breadcrumb Start -->
+        <div class="breadcrumb-wrap bg-f br-6">
+            <img src="assets/img/breadcrumb/br-shape-1.webp" alt="Image" class="br-shape-one bounce sm-none">
+            <img src="assets/img/breadcrumb/br-shape-2.webp" alt="Image" class="br-shape-two moveHorizontal sm-none">
+            <img src="assets/img/breadcrumb/br-shape-3.webp" alt="Image" class="br-shape-three">
+            <div class="container">
+                <div class="breadcrumb-content">
+                    <h2>FAQ</h2>
+                    <ul class="breadcrumb-menu list-style">
+                        <li><a href="index">Home</a></li>
+                        <li>FAQ</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Breadcrumb End -->
+
+        <!-- FAQ Section Start -->
+        <div class="container ptb-100">
+            <div class="row">
+                <div class="col-xxl-8 offset-xxl-2 col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                    <div class="section-title style-one text-center mb-40">
+                        <span><img src="assets/img/section-shape.svg" alt="Image">Frequently Asked Questions</span>
+                        <h2>Get Every Single Answer That You May <span>Want</span><img src="assets/img/section-shape-2.webp" alt="Image"></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingOne">
+                                <button class="accordion-button" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                                    aria-expanded="true" aria-controls="collapseOne">
+                                    <span>
+                                        <i class="ri-add-line plus"></i>
+                                        <i class="ri-subtract-line minus"></i>
+                                    </span>
+                                    What products do you supply?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <p>We provide a wide range of pharmaceutical supplies including prescription medications, over-the-counter drugs, medical devices, surgical supplies, PPE, and healthcare consumables.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                    aria-expanded="false" aria-controls="collapseTwo">
+                                    <span>
+                                        <i class="ri-add-line plus"></i>
+                                        <i class="ri-subtract-line minus"></i>
+                                    </span>
+                                    Who can purchase from your website?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse "
+                                aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                     <p>Our products are available to licensed pharmacies, hospitals, clinics, medical professionals, and, in some cases, registered consumers depending on regulatory requirements.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                    aria-expanded="false" aria-controls="collapseThree">
+                                    <span>
+                                        <i class="ri-add-line plus"></i>
+                                        <i class="ri-subtract-line minus"></i>
+                                    </span>
+                                    Do you offer bulk purchasing or wholesale pricing?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                     <p>Yes. We offer competitive pricing for bulk orders. Please contact our sales team for volume discounts or customized quotes.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFour">
+                                <button class="accordion-button collapsed" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                    aria-expanded="false" aria-controls="collapseFour">
+                                    <span>
+                                        <i class="ri-add-line plus"></i>
+                                        <i class="ri-subtract-line minus"></i>
+                                    </span>
+                                    What payment methods do you accept?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse"
+                                aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                     <p>We accept major credit cards, bank transfers, and in some cases, payment on account for approved clients.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingFive">
+                                <button class="accordion-button collapsed" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                                    aria-expanded="false" aria-controls="collapseFive">
+                                    <span>
+                                        <i class="ri-add-line plus"></i>
+                                        <i class="ri-subtract-line minus"></i>
+                                    </span>
+                                    What is your shipping policy?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse"
+                                aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                     <p>We ship nationwide (or specify your coverage area). Orders are typically processed within 24–48 hours. Shipping options and costs are displayed at checkout.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="headingSix">
+                                <button class="accordion-button collapsed" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                                    aria-expanded="false" aria-controls="collapseSix">
+                                    <span>
+                                        <i class="ri-add-line plus"></i>
+                                        <i class="ri-subtract-line minus"></i>
+                                    </span>
+                                    Do you ship internationally?
+                                </button>
+                            </h2>
+                            <div id="collapseSix" class="accordion-collapse collapse"
+                                aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                     <p>International shipping is available for select products. Compliance with local regulations and customs requirements must be verified before shipment.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- FAQ Section End -->
+
+        <!-- Newsletter Start -->
+        <div class="newsletter-wrap style-three">
+            <div class="container">
+                <div class="newsletter-box bg-f">
+                    <div class="row align-items-center gx-5">
+                        <div class="col-xl-5 col-lg-5">
+                            <div class="newsletter-text">
+                                <i class="flaticon-megaphone"></i>
+                                <h2>Keep in touch</h2>
+                            </div>
+                        </div>
+                        <!-- <div class="col-xl-7 col-lg-7">
+                            <form action="#">
+                                <input type="email" placeholder="Your Email Address">
+                                <button type="submit">Subscribe Now<i class="flaticon-right-arrow"></i></button>
+                            </form>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Newsletter End -->
+
+        <!-- Footer  Start -->
+        <footer class="footer-wrap style-three">
+            <div class="footer-top pb-70">
+                <img src="assets/img/footer-shape.webp" alt="Image" class="footer-shape">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-12 col-sm-6">
+                            <div class="footer-widget">
+                                <a href="index" class="footer-logo">
+                                    <img class="logo-light" src="assets/img/logo-white.webp" alt="Image">
+                                    <img class="logo-dark" src="assets/img/logo-white.webp" alt="Image">
+                                </a>
+                                <p class="comp-desc">Your Trusted Source for High-Quality Medical Supplies.</p>
+                                <div class="contact-info">
+                                    <h6><i class="flaticon-pin"></i>Contact Address</h6>
+                                    <p>Juba - South Sudan</p>
+                                </div>
+                                <ul class="social-profile list-style">
+                                    <li><a href="https://www.fb.com/" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-fill"></i></a></li>
+                                    <li><a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xxl-6 col-xl-5 col-lg-6 col-md-12 col-sm-6 pe-xxl-6">
+                            <div class="footer-widget">
+                                <h3 class="footer-widget-title">Quick Links</h3>
+                                <ul class="footer-menu list-style">
+                                    <li><a href="index"><i class="ri-arrow-right-double-line"></i>Home</a></li>
+                                    <li><a href="about"><i class="ri-arrow-right-double-line"></i>About Us</a></li>
+                                    <li><a href="service-style-two"><i class="ri-arrow-right-double-line"></i>Services</a></li>
+                                    <li><a href="faq"><i class="ri-arrow-right-double-line"></i>FAQ</a></li>
+                                    <li><a href="privacy-policy"><i class="ri-arrow-right-double-line"></i>Policy</a></li>
+                                    <li><a href="contact"><i class="ri-arrow-right-double-line"></i>Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xxl-3 col-xl-3 col-lg-6 col-md-12 col-sm-6 px-xxl-0">
+                            <div class="footer-widget">
+                                <h3 class="footer-widget-title">Business Hours</h3>
+                                <ul class="opening-time list-style">
+                                    <li><span>Mon - Sat</span> <span>9:00 AM - 6:00 PM</span></li>
+                                    <li><span>Sunday</span> <span>Closed</span></li>
+                                </ul>
+                                <div class="contact-info">
+                                    <h6><i class="flaticon-phone-call"></i>Call Us</h6>
+                                    <a href="tel:211922999927">+211 922 999 927</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="copyright-text"><i class="ri-copyright-line"></i><span></span>Developed by <a href="https://wa.me/256782031052">DaniTrust</a></p>
+        </footer>
+        <!-- Footer End -->
+
+        <!-- Back to Top -->
+        <button type="button" id="backtotop" class="position-fixed text-center border-0 p-0">
+            <i class="ri-arrow-up-line"></i>
+        </button>
+
+        <!-- Link of JS files -->
+        <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/swiper.bundle.min.js"></script>
+        <script src="assets/js/aos.js"></script>
+        <script src="assets/js/fslightbox.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+
+<!-- Mirrored from templates.hibotheme.com/dolt/default/faq by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 May 2025 17:27:16 GMT -->
+</html>

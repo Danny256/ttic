@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<html lang="zxx">
+    
+<!-- Mirrored from templates.hibotheme.com/dolt/default/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 May 2025 17:27:02 GMT -->
+<head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Link of CSS files -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/remixicon.css">
+        <link rel="stylesheet" href="assets/css/flaticon_dolt.css">
+        <link rel="stylesheet" href="assets/css/swiper.bundle.min.css">
+        <link rel="stylesheet" href="assets/css/aos.css">
+        <link rel="stylesheet" href="assets/css/header.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/footer.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="assets/css/dark-theme.css">
+
+                <title>Targey Trading & Investment Co.LTD</title>
+
+        <link rel="icon" type="image/png" href="assets/img/favicon.webp">
+    </head>
+    <body>
+
+        <!--  Preloader Start -->
+        <div class="loader-wrapper">
+            <div class="loader"></div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+        </div>
+        <!--  Preloader End -->
+
+        <!-- Theme Switcher Start -->
+        <!-- <div class="switch-theme-mode">
+            <label id="switch" class="switch">
+                <input type="checkbox" onchange="toggleTheme()" id="slider">
+                <span class="slider round"></span>
+            </label>
+        </div> -->
+        <!-- Theme Switcher End -->
+
+        <!-- Start Navbar Area -->
+        <div class="navbar-area style-three" id="navbar">
+            <div class="header-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <ul class="contact-info list-style">
+                                <li><i class="flaticon-mail"></i>targeytrading@gmail.com</li>
+                                <li><i class="flaticon-pin"></i>Juba - South Sudan</li>
+                                <li><i class="flaticon-phone-call"></i>+211 922 999 927</li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-4">
+                            <ul class="contact-info text-lg-end list-style">
+                                <li><i class="flaticon-clock"></i>Mon - Sat: 09.00 to 18.00, Sunday: Closed</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <nav class="navbar navbar-expand-lg">
+                    <a class="navbar-brand" href="index">
+                        <img class="logo-light" src="assets/img/logo.webp" alt="logo">
+                        <img class="logo-dark" src="assets/img/logo-white.webp" alt="logo">
+                    </a>
+                    <div class="other-option d-flex align-items-center justify-content-end d-lg-none">
+                        <button type="button" class="search-btn d-lg-none" data-bs-toggle="modal" data-bs-target="#searchModal">
+                            <i class="flaticon-search"></i>
+                        </button>
+                        <a class="navbar-toggler" data-bs-toggle="offcanvas" href="#navbarOffcanvas" role="button" aria-controls="navbarOffcanvas">
+                            <span class="burger-menu">
+                                <span class="top-bar"></span>
+                                <span class="middle-bar"></span>
+                                <span class="bottom-bar"></span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse">
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <a href="index" class="nav-link active">
+                                    Home
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="about" class="nav-link">
+                                    About Us
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="service-style-two" class="nav-link">
+                                    Services
+                                </a>
+                            </li>
+                            <!--  -->
+                            <li class="nav-item">
+                                <a href="faq" class="nav-link">
+                                    FAQ
+                                </a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a href="privacy-policy" class="nav-link">
+                                    Policy
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="contact" class="nav-link">
+                                    Contact Us
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="others-option d-flex align-items-center">
+                            <div class="option-item">
+                                <button type="button" class="search-btn" data-bs-toggle="modal" data-bs-target="#searchModal">
+                                    <i class="flaticon-search"></i>
+                                </button>
+                            </div>
+                            <div class="option-item">
+                                <div class="contact-item">
+                                    <i class="flaticon-emergency-call"></i>
+                                    <span>Phone Number</span>
+                                                                        <a href="tel:211911999927">+211 911 999 927</a>
+
+                                </div>
+                            </div>
+                            <div class="option-item">
+                                <a class="sidebar-toggler" data-bs-toggle="offcanvas" href="#navbarOffcanvas" role="button" aria-controls="navbarOffcanvas">
+                                    <i class="flaticon-list"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+        <!-- End Navbar Area -->
+
+        <!-- Start Responsive Navbar Area -->
+        <div class="responsive-navbar offcanvas offcanvas-end" data-bs-backdrop="static" tabindex="-1" id="navbarOffcanvas">
+            <div class="offcanvas-header">
+                <a href="index" class="logo d-inline-block">
+                    <img class="logo-light" src="assets/img/logo.webp" alt="logo">
+                    <img class="logo-dark" src="assets/img/logo-white.webp" alt="logo">
+                </a>
+                <button type="button" class="close-btn" data-bs-dismiss="offcanvas" aria-label="Close">
+                    <i class="ri-close-line"></i>
+                </button>
+            </div>
+            <div class="offcanvas-body">
+                <div class="accordion" id="navbarAccordion">
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon active" href="index">
+                            Home
+                        </a>
+                    </div>
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon" href="about">
+                            About Us
+                        </a>
+                    </div>
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon" href="service-style-two">
+                            Services
+                        </a>
+                    </div>
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon" href="faq">
+                            FAQ
+                        </a>
+                    </div>
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon" href="privacy-policy">
+                            Policy
+                        </a>
+                    </div>
+                    <div class="accordion-item">
+                        <a class="accordion-button without-icon" href="contact">
+                            Contact Us
+                        </a>
+                    </div>
+                </div>
+                <div class="offcanvas-contact-info">
+                    <h4>Contact Info</h4>
+                    <ul class="contact-info list-style">
+                        <li>
+                            <i class="flaticon-pin"></i>
+                            <p>Juba - South Sudan</p>
+                        </li>
+                        <li>
+                            <i class="flaticon-mail"></i>
+                            <p>targeytrading@gmail.com</p>
+                        </li>
+                        <li>
+                            <i class="flaticon-phone-call"></i>
+                            <a href="tel:211911999927">+211 911 999 927</a>
+                        </li>
+                    </ul>
+                    <ul class="social-profile list-style">
+                        <li><a href="https://www.fb.com/" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+                        <li><a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a></li>
+                        <li><a href="https://www.linkedin.com/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+                        <li><a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-fill"></i></a></li>
+                    </ul>
+                </div>
+                <div class="others-option d-lg-none">
+                    <div class="contact-item">
+                        <i class="flaticon-emergency-call"></i>
+                        <span>Phone Number</span>
+                        <a href="tel:211911999927">+211 911 999 927</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Start Search Modal -->
+        <div class="modal fade searchModal" id="searchModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                     <form>
+                        <input type="text" class="form-control" placeholder="Search here....">
+                        <button type="submit"><i class="ri-search-line"></i></button>
+                    </form>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="ri-close-fill"></i></button>
+                </div>
+            </div>
+        </div>
+        <!-- End Search Modal -->
+
+        <!-- Hero Section Start -->
+        <div class="hero-wrap style-three">
+            <div class="hero-bg bg-f"></div>
+            <img src="assets/img/hero/hero-shape-7.webp" alt="Image" class="hero-shape-one bounce">
+            <div class="container">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="hero-content">
+                            <h1>Your Trusted Source for High-Quality Medical Supplies</h1>
+                            <p>From everyday healthcare needs to specialized medical equipment, we provide reliable solutions with fast delivery and expert customer service.</p>
+                            <a href="contact" class="btn-two">Get in touch today<i class="flaticon-right-arrow"></i></a>
+                            <!-- <div class="client-list-wrap">
+                                <ul class="client-list list-style">
+                                    <li><img src="assets/img/clients/client-1.webp" alt="Image"></li>
+                                    <li><img src="assets/img/clients/client-2.webp" alt="Image"></li>
+                                    <li><img src="assets/img/clients/client-3.webp" alt="Image"></li>
+                                </ul>
+                                <span>MORE THAN 132K ACTIVE PATIENT</span>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="hero-img-wrap">
+                            <img src="assets/img/hero/hero-img-3.webp" alt="Image">
+                            <div class="circle-wrap">
+                                <i class="flaticon-hospital"></i>
+                                 <div class="circle-text">
+                                     <svg class="rotate" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+                                         <defs>
+                                             <path id="circlePath_one" d=" M 150, 150 m -60, 0 a 60,60 0 0,1 120,0 a 60,60 0 0,1 -120,0 "/>
+                                         </defs>
+                                         <circle cx="150" cy="150" r="75" fill="none"/>
+                                         <g>
+                                             <use xlink:href="#circlePath_one" fill="none"/>
+                                             <text fill="#fff">
+                                                 <textPath xlink:href="#circlePath_one">GENERAL SUPPLIES</textPath>
+                                             </text>
+                                         </g>
+                                     </svg>
+                                 </div>
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Hero Section End -->
+
+        <!-- About Section Start -->
+        <div class="feature-wrap">
+            <img src="assets/img/about/about-shape-6.webp" alt="Image" class="feature-shape">
+            <div class="container pb-70">
+                <div class="row">
+                    <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6">
+                        <div class="feature-card style-two">
+                            <img src="assets/img/hero/star.svg" alt="Image">
+                            <h3>Innovative Solutions</h3>
+                            <p>Pioneering Healthcare Solutions with Cutting-Edge Medical Technology.</p>
+                        </div>
+                    </div>
+                    <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6">
+                        <div class="feature-card style-two">
+                            <img src="assets/img/hero/star.svg" alt="Image">
+                            <h3>Customer-Centric</h3>
+                            <p>Your Needs, Our Commitment – Personalized Service Every Step of the Way.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="about-wrap style-three pb-100">
+                <div class="container">
+                    <img src="assets/img/about/about-shape-3.webp" alt="Image" class="about-shape-one moveHorizontal">
+                    <div class="row gx-5 align-items-center">
+                        <div class="col-lg-6">
+                            <div class="about-img-wrap">
+                                <img src="assets/img/about/about-img-5.webp" alt="Image" class="about-img-one">
+                                <img src="assets/img/about/about-img-4.webp" alt="Image" class="about-img-two">
+                                <div class="promo-box">
+                                    <h5>95%</h5>
+                                    <span>Positive Feedback</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 pe-xxl-0">
+                            <div class="about-content">
+                                <div class="content-title style-two">
+                                    <span>Who We Are</span>
+                                    <h2>Several Years Of Quality Service In the Medical Arena & Investments</h2>
+                                    <p>Trusted by Healthcare Professionals & traders Across Southern Sudan.</p>
+                                </div>
+                                <div class="feature-list">
+                                    <div class="feature-item">
+                                        <h6>Trust and Reliability</h6> 
+                                        <p>Your Health, Our Priority – Supplying Excellence in Every Product. Dependable Medical Supplies, Delivered with Care.</p>
+                                    </div>
+                                    <div class="feature-item">
+                                        <h6>Trained Staff</h6> 
+                                        <p>Highly trained medical personel, trading and Investment partners.</p>
+                                    </div>
+                                </div>
+                                <a href="contact" class="btn-two">Get in touch<i class="flaticon-right-arrow"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- About Section End -->
+
+        <!-- Service Section Start -->
+        <div class="service-wrap style-three bg_optional pt-100 pb-75">
+            <div class="container">
+                <img src="assets/img/services/service-shape-1.webp" alt="Image" class="service-shape moveHorizontal sm-none">
+                <div class="row">
+                    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                        <div class="content-title style-two text-center mb-40">
+                            <span>Medical Supplies, General Trading and Investment</span>
+                            <h2>We Provide Different Types Of Services</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="service-card style-three">
+                            <span class="service-img">
+                                <img src="assets/img/services/service-1.webp" alt="Image">
+                            </span>
+                            <div class="service-info">
+                                <img src="assets/img/services/service-card-shape.webp" alt="Image" class="service-card-shape">
+                                <!-- <span class="service-icon">
+                                    <i class="flaticon-tool"></i>
+                                </span> -->
+                                <h3><a href="service-style-two">Pharmaceutical Services</a></h3>
+                                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipi scing elit, sed do eiusmod tempor</p> -->
+                                <p>At the core of modern healthcare, pharmaceutical services play a vital role in the discovery, development, distribution, and management of medications that improve and save lives.</p>
+                                <a href="service-style-two" class="btn-three">Read More<i class="flaticon-right-arrow"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="service-card style-three">
+                            <span class="service-img">
+                                <img src="assets/img/services/service-2.webp" alt="Image">
+                            </span>
+                            <div class="service-info">
+                                <img src="assets/img/services/service-card-shape.webp" alt="Image" class="service-card-shape">
+                                <!-- <span class="service-icon">
+                                    <i class="flaticon-tool"></i>
+                                </span> -->
+                                <h3><a href="service-style-two">Construction Supplies</a></h3>
+                                <p>These encompass a broad range of activities involved in the building, renovation, maintenance, and management of physical structures and infrastructure.</p>
+                                <a href="service-style-two" class="btn-three">Read More<i class="flaticon-right-arrow"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="service-card style-three">
+                            <span class="service-img">
+                                <img src="assets/img/services/service-3.webp" alt="Image">
+                            </span>
+                            <div class="service-info">
+                                <img src="assets/img/services/service-card-shape.webp" alt="Image" class="service-card-shape">
+                                <!-- <span class="service-icon">
+                                    <i class="flaticon-tool"></i>
+                                </span> -->
+                                <h3><a href="service-style-two">Transportation & Logistics</a></h3>
+                                <p>These are critical components of supply chain management, ensuring the efficient and timely movement of goods, services, and information from origin to destination.</p>
+                                <a href="service-style-two" class="btn-three">Read More<i class="flaticon-right-arrow"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Service Section End -->
+
+        <!-- Counter Section start -->
+        <!-- <div class="counter-wrap style-three pt-100 pb-75">
+            <div class="counter-bg">
+                <img src="assets/img/counter-shape-3.webp" alt="Image" class="counter-shape">
+            </div>
+            <div class="container">
+                <div class="counter-card-wrap">
+                    <div class="counter-card">
+                        <span class="counter-icon">
+                            <i class="flaticon-stethoscope"></i>
+                        </span>
+                        <div class="counter-text">
+                            <span class="counter">100</span>
+                            <p>Dedicated Doctors</p>
+                        </div>
+                    </div>
+                    <div class="counter-card">
+                        <span class="counter-icon">
+                            <i class="flaticon-hospital"></i>
+                        </span>
+                        <div class="counter-text">
+                           <span class="counter">150</span>
+                            <p>Clinic Rooms</p>
+                        </div>
+                    </div>
+                    <div class="counter-card">
+                        <span class="counter-icon">
+                            <i class="flaticon-medal"></i>
+                        </span>
+                        <div class="counter-text">
+                            <span class="counter">250</span>
+                            <p>Awards</p>
+                        </div>
+                    </div>
+                    <div class="counter-card">
+                        <span class="counter-icon">
+                            <i class="flaticon-customer"></i>
+                        </span>
+                        <div class="counter-text">
+                            <span class="counter">1500</span>
+                            <p>Happy Patients</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <!-- Counter Section End -->
+
+        <!-- Why Choose Us Section Start -->
+        <!-- <div class="wh-wrap style-three pt-100">
+            <img src="assets/img/about/wh-shape-4.webp" alt="Image" class="wh-shape-one">
+            <div class="container">
+                <div class="row gx-5 align-items-xxl-end align-items-center">
+                    <div class="col-lg-6">
+                        <div class="wh-img-wrap">
+                            <img src="assets/img/about/wh-img-3.webp" alt="Image">
+                            <img src="assets/img/about/wh-shape-3.webp" alt="Image" class="wh-img-shape bounce">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 pe-xxl-0">
+                        <div class="wh-content">
+                            <div class="content-title style-two">
+                                <span>Why Choose Us</span>
+                                <h2>We Are A Award-Winning & Certified Hospital</h2>
+                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Coectetur tibulum orci ullamcor elit ullamcorp usce posuere vitae egestas equlin.</p>
+                            </div>
+                            <div class="feature-list">
+                                <div class="feature-item">
+                                    <i class="ri-checkbox-circle-fill"></i>
+                                    <h6>Dental Prevention</h6>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit oectetu.</p>
+                                </div>
+                                <div class="feature-item">
+                                    <i class="ri-checkbox-circle-fill"></i>
+                                    <h6>Shiny Smiles</h6>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit oectetu.</p>
+                                </div>
+                                <div class="feature-item">
+                                    <i class="ri-checkbox-circle-fill"></i>
+                                    <h6>All Age Visitors</h6>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit oectetu.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <!-- Why Choose Us Section End -->
+
+        <!-- Team Section Start -->
+        <!-- <div class="team-wrap pt-100 pb-75">
+            <div class="container">
+                <img src="assets/img/shape-8.webp" alt="Image" class="team-shape-one bounce sm-none">
+                <div class="row align-items-center mb-40">
+                    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                        <div class="section-title style-two text-center">
+                            <span>Professional Dentists</span>
+                            <h2>Dentist For Specialized And Experienced Dentistry</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6">
+                        <div class="team-card style-three">
+                            <div class="team-img">
+                                <img src="assets/img/team/team-10.webp" alt="Image">
+                                <ul class="social-profile list-style">
+                                    <li><a href="https://www.fb.com/" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-fill"></i></a></li>
+                                    <li><a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info">
+                                <h3><a href="dentist-details.html">Daniel Michael</a></h3>
+                                <span>Expert Dentist</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6">
+                        <div class="team-card style-three">
+                            <div class="team-img">
+                                <img src="assets/img/team/team-11.webp" alt="Image">
+                                <ul class="social-profile list-style">
+                                    <li><a href="https://www.fb.com/" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-fill"></i></a></li>
+                                    <li><a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info">
+                                <h3><a href="dentist-details.html">Camila Gianna</a></h3>
+                                <span>Dental Assistant</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6">
+                        <div class="team-card style-three">
+                            <div class="team-img">
+                                <img src="assets/img/team/team-12.webp" alt="Image">
+                                <ul class="social-profile list-style">
+                                    <li><a href="https://www.fb.com/" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-fill"></i></a></li>
+                                    <li><a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info">
+                                <h3><a href="dentist-details.html">Sebastian Ethan</a></h3>
+                                <span>Dental Hygenist</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-6">
+                        <div class="team-card style-three">
+                            <div class="team-img">
+                                <img src="assets/img/team/team-13.webp" alt="Image">
+                                <ul class="social-profile list-style">
+                                    <li><a href="https://www.fb.com/" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-fill"></i></a></li>
+                                    <li><a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="team-info">
+                                <h3><a href="dentist-details.html">Natalie Kinsley</a></h3>
+                                <span>Expert Dentist</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <!-- Team Section End -->
+
+        <!-- Work Process Section Start -->
+        <div class="process-wrap ptb-100 bg_optional">
+            <div class="container">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="process-content">
+                            <div class="content-title style-two">
+                                <span>Our Working Process</span>
+                                <h2>You Will Love Us And Enjoy Specialized Care</h2>
+                            </div>
+                            <div class="feature-item-wrap">
+                                <div class="feature-item">
+                                    <div class="feature-icon">
+                                        <i class="flaticon-emergency"></i>
+                                    </div>
+                                    <div class="feature-text">
+                                        <h5>Emergency Care</h5>
+                                        <p>Immediate medical treatment provided for acute illnesses or injuries that pose a serious threat to health or life.</p>
+                                    </div>
+                                </div>
+                                <div class="feature-item">
+                                    <div class="feature-icon">
+                                        <i class="flaticon-pills"></i>
+                                    </div>
+                                    <div class="feature-text">
+                                        <h5>Outdoor Checkup</h5>
+                                        <p>These services bring essential health screenings and medical consultations directly to the community—making healthcare more accessible.</p>
+                                    </div>
+                                </div>
+                                <div class="feature-item">
+                                    <div class="feature-icon">
+                                        <i class="flaticon-doctor"></i>
+                                    </div>
+                                    <div class="feature-text">
+                                        <h5>Medical consultancy</h5>
+                                        <p>This is a specialized service that provides expert medical advice, diagnosis, and treatment guidance tailored to individual patient needs.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="process-img-wrap">
+                            <img src="assets/img/about/process-shape.webp" alt="Image" class="process-shape bounce">
+                            <!-- <div class="promo-box">
+                                <h5>36+</h5>
+                                <span>Established Hospital</span>
+                            </div> -->
+                            <div class="trust-box">
+                                Trusted By
+                                <span>9999+</span>
+                            </div>
+                            <img class="process-img-one" src="assets/img/about/process-img-2.webp" alt="Image">
+                            <img class="process-img-two" src="assets/img/about/process-img-1.webp" alt="Image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Work Process Section End -->
+
+        <!-- Appointment Section Start -->
+        <!-- <div class="appointment-wrap style-three">
+            <div class="appointment-bg bg-f"></div>
+            <img src="assets/img/shape-6.webp" alt="Image" class="appointment-shape-one">
+            <div class="container pt-100">
+                <img src="assets/img/shape-4.webp" alt="Iamge" class="appintment-shape bounce sm-none">
+                <div class="row">
+                    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                        <div class="section-title style-two text-center">
+                            <span class="text-white">WATCH THE VIDEO</span>
+                            <h2 class="text-white">Explore Our Caring & Premium Dental Services</h2>
+                        </div>
+                        <a class="play-now" data-fslightbox href="https://www.youtube.com/watch?v=JgUPFmPk9ac">
+                            <i class="ri-play-fill"></i>
+                            <span class="ripple"></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="appointment-box">
+                    <img src="assets/img/shape-3.webp" alt="Image" class="box-shape">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="appointment-form">
+                                <h3>Make An <span>Appointment.</span><img src="assets/img/section-shape-2.webp" alt="Image"></h3>
+                                <form action="#">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="name">Name*</label>   
+                                                <input type="text" id="name" placeholder="Name">
+                                                <i class="flaticon-user"></i>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="app_email">Email*</label>   
+                                                <input type="email" id="app_email" placeholder="Email">
+                                                <i class="flaticon-mail"></i>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="app_phone">Phone</label>   
+                                                <input type="number" id="app_phone" placeholder="Name">
+                                                <i class="flaticon-phone-call"></i>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="doc_name">Doctors*</label>   
+                                                <select name="doc_name" id="doc_name">
+                                                    <option value="0">Doctors</option>
+                                                    <option value="1">Jackson Mateo</option>
+                                                    <option value="2">Mahito Hiasho</option>
+                                                    <option value="3">Jack Sparrow</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+                                                <label for="dep_name">Departments*</label>   
+                                                <select name="dep_name" id="dep_name">
+                                                    <option value="0">Department</option>
+                                                    <option value="1">Dental Department</option>
+                                                    <option value="2">Surgery Department</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="app_date">Select Date*</label>   
+                                                <input type="date" id="app_date">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label for="app_time">Select Time*</label>   
+                                                <select name="app_time" id="app_time">
+                                                    <option value="0">Select Time</option>
+                                                    <option value="1">9:00 Am - 10:00 Am</option>
+                                                    <option value="2">10:00 Am - 11:00 Am</option>
+                                                    <option value="3">11:00 Am - 12:00 Pm</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <button class="btn-two border-0" type="submit">Make an Appointment</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="before-after-container">
+                                <figure>
+                                    <div id="before_after"></div>
+                                </figure>
+                                <input oninput="callBeforeAfter()" onchange="callBeforeAfter()" type="range" min="0" max="100" value="50" id="before_after_slider">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <!-- Appointment Section End -->
+
+        <!-- Testimonial Section Start -->
+        <div class="testimonial-wrap style-three ptb-100">
+            <div class="container">
+                <img src="assets/img/clients/shape-2.webp" alt="Image" class="testimonial-shape-one bounce sm-none">
+                <div class="row">
+                    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                        <div class="section-title style-two text-center mb-40">
+                            <span>Clients Review</span>
+                            <h2>Valuable Feedback From Our Clients</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-slider-wrap style-three">
+                    <div class="testimonial-slider-three swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="testimonial-card style-three">
+                                    <div class="client-info-wrap">
+                                        <div class="client-img">
+                                            <img src="assets/img/clients/client-1.webp" alt="Image">
+                                        </div>
+                                        <div class="client-info">
+                                            <h5>Dr. Morris M</h5>
+                                            <span>Clinic Director</span>
+                                        </div>
+                                    </div>
+                                    <div class="client-quote">
+                                        <span class="quote-icon">
+                                            <i class="flaticon-quote"></i>
+                                        </span>
+                                        <p>We’ve been sourcing our medical supplies from this site for a while now, and they’ve never let us down. Orders always arrive on time and well-packaged. Highly recommend for any healthcare provider.</p>
+                                        <ul class="rating list-style">
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testimonial-card style-three">
+                                    <div class="client-info-wrap">
+                                        <div class="client-img">
+                                            <img src="assets/img/clients/client-2.webp" alt="Image">
+                                        </div>
+                                        <div class="client-info">
+                                            <h5>Jeniffer L.</h5>
+                                            <span>Procurement Manager</span>
+                                        </div>
+                                    </div>
+                                    <div class="client-quote">
+                                        <span class="quote-icon">
+                                            <i class="flaticon-quote"></i>
+                                        </span>
+                                        <p>I had a question about a specific product, and their support team responded within minutes. They were knowledgeable, professional, and incredibly helpful. It made the whole experience seamless.</p>
+                                        <ul class="rating list-style">
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testimonial-card style-three">
+                                    <div class="client-info-wrap">
+                                        <div class="client-img">
+                                            <img src="assets/img/clients/client-3.webp" alt="Image">
+                                        </div>
+                                        <div class="client-info">
+                                            <h5>Alex R.</h5>
+                                            <span>Hospital Administrator</span>
+                                        </div>
+                                    </div>
+                                    <div class="client-quote">
+                                        <span class="quote-icon">
+                                            <i class="flaticon-quote"></i>
+                                        </span>
+                                        <p>Quality matters in healthcare, and this site delivers consistently top-grade pharmaceutical supplies. We’ve noticed improved outcomes and fewer issues since switching over</p>
+                                        <ul class="rating list-style">
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testimonial-card style-three">
+                                    <div class="client-info-wrap">
+                                        <div class="client-img">
+                                            <img src="assets/img/clients/client-4.webp" alt="Image">
+                                        </div>
+                                        <div class="client-info">
+                                            <h5>Dr. Karen L.</h5>
+                                            <span>Family Medicine</span>
+                                        </div>
+                                    </div>
+                                    <div class="client-quote">
+                                        <span class="quote-icon">
+                                            <i class="flaticon-quote"></i>
+                                        </span>
+                                        <p>We’ve tried a few different suppliers, but this one stands out for professionalism, accuracy, and fast turnaround times. Definitely our go-to source now.</p>
+                                        <ul class="rating list-style">
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testimonial-card style-three">
+                                    <div class="client-info-wrap">
+                                        <div class="client-img">
+                                            <img src="assets/img/clients/client-5.webp" alt="Image">
+                                        </div>
+                                        <div class="client-info">
+                                            <h5>Michael D.</h5>
+                                            <span>Pharmacy Owner</span>
+                                        </div>
+                                    </div>
+                                    <div class="client-quote">
+                                        <span class="quote-icon">
+                                            <i class="flaticon-quote"></i>
+                                        </span>
+                                        <p>We’ve worked with several suppliers in the past, but none have matched the consistency and reliability of this team. Deliveries are prompt, and we've never had a single error in our orders.</p>
+                                        <ul class="rating list-style">
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="testimonial-card style-three">
+                                    <div class="client-info-wrap">
+                                        <div class="client-img">
+                                            <img src="assets/img/clients/client-6.webp" alt="Image">
+                                        </div>
+                                        <div class="client-info">
+                                            <h5>Rowland P.</h5>
+                                            <span>Purchasing Officer</span>
+                                        </div>
+                                    </div>
+                                    <div class="client-quote">
+                                        <span class="quote-icon">
+                                            <i class="flaticon-quote"></i>
+                                        </span>
+                                        <p>From product availability to shipping updates, everything is communicated clearly. We always feel informed and in control of our supply chain.</p>
+                                        <ul class="rating list-style">
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                            <li><i class="ri-star-fill"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testimonial-pagination"></div>
+                    </div>
+                    <div class="testimonial-slider-btn slider-btn">
+                        <div class="testimonial-prev prev-btn"><img src="assets/img/left-arrow.svg" alt="Image"></div>
+                        <div class="testimonial-next next-btn"><img src="assets/img/right-arrow.svg" alt="Image"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Testimonial Section End -->
+
+        <!-- CTA Section Start -->
+        <!-- CTA Section End -->
+
+        <!-- Blog Section Start -->
+        <!-- Blog Section End -->
+
+        <!-- Newsletter Start -->
+        <div class="newsletter-wrap style-three">
+            <div class="container">
+                <div class="newsletter-box bg-f">
+                    <div class="row align-items-center gx-5">
+                        <div class="col-xl-5 col-lg-5">
+                            <div class="newsletter-text">
+                                <i class="flaticon-megaphone"></i>
+                                <h2>Keep in touch</h2>
+                            </div>
+                        </div>
+                        <!-- <div class="col-xl-7 col-lg-7">
+                            <form action="#">
+                                <input type="email" placeholder="Your Email Address">
+                                <button type="submit">Subscribe Now<i class="flaticon-right-arrow"></i></button>
+                            </form>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Newsletter End -->
+
+        <!-- Footer  Start -->
+        <footer class="footer-wrap style-three">
+            <div class="footer-top pb-70">
+                <img src="assets/img/footer-shape.webp" alt="Image" class="footer-shape">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xxl-3 col-xl-4 col-lg-6 col-md-12 col-sm-6">
+                            <div class="footer-widget">
+                                <a href="index" class="footer-logo">
+                                    <img class="logo-light" src="assets/img/logo-white.webp" alt="Image">
+                                    <img class="logo-dark" src="assets/img/logo-white.webp" alt="Image">
+                                </a>
+                                <p class="comp-desc">Your Trusted Source for High-Quality Medical Supplies.</p>
+                                <div class="contact-info">
+                                    <h6><i class="flaticon-pin"></i>Contact Address</h6>
+                                    <p>Juba - South Sudan</p>
+                                </div>
+                                <ul class="social-profile list-style">
+                                    <li><a href="https://www.fb.com/" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="ri-twitter-fill"></i></a></li>
+                                    <li><a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xxl-6 col-xl-5 col-lg-6 col-md-12 col-sm-6 pe-xxl-6">
+                            <div class="footer-widget">
+                                <h3 class="footer-widget-title">Quick Links</h3>
+                                <ul class="footer-menu list-style">
+                                    <li><a href="index"><i class="ri-arrow-right-double-line"></i>Home</a></li>
+                                    <li><a href="about"><i class="ri-arrow-right-double-line"></i>About Us</a></li>
+                                    <li><a href="service-style-two"><i class="ri-arrow-right-double-line"></i>Services</a></li>
+                                    <li><a href="faq"><i class="ri-arrow-right-double-line"></i>FAQ</a></li>
+                                    <li><a href="privacy-policy"><i class="ri-arrow-right-double-line"></i>Policy</a></li>
+                                    <li><a href="contact"><i class="ri-arrow-right-double-line"></i>Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xxl-3 col-xl-3 col-lg-6 col-md-12 col-sm-6 px-xxl-0">
+                            <div class="footer-widget">
+                                <h3 class="footer-widget-title">Business Hours</h3>
+                                <ul class="opening-time list-style">
+                                    <li><span>Mon - Sat</span> <span>9:00 AM - 6:00 PM</span></li>
+                                    <li><span>Sunday</span> <span>Closed</span></li>
+                                </ul>
+                                <div class="contact-info">
+                                    <h6><i class="flaticon-phone-call"></i>Call Us</h6>
+                                    <a href="tel:211922999927">+211 922 999 927</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="copyright-text"><i class="ri-copyright-line"></i><span></span>Developed by <a href="https://wa.me/256782031052">DaniTrust</a></p>
+        </footer>
+        <!-- Footer End -->
+
+        <!-- Back to Top -->
+        <button type="button" id="backtotop" class="position-fixed text-center border-0 p-0">
+            <i class="ri-arrow-up-line"></i>
+        </button>
+
+        <!-- Link of JS files -->
+        <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/swiper.bundle.min.js"></script>
+        <script src="assets/js/aos.js"></script>
+        <script src="assets/js/fslightbox.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+
+<!-- Mirrored from templates.hibotheme.com/dolt/default/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 10 May 2025 17:27:07 GMT -->
+</html>
